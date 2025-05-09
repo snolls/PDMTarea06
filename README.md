@@ -71,8 +71,6 @@ El objetivo es visitar distintas localizaciones en Andalucía, completar retos c
 │   │   └── dialog_challenge.xml
 │   ├── drawable/
 │   │   └── crash.png
-│   └── values/
-│       └── google_maps_api.xml
 ```
 
 ---
