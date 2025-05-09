@@ -9,22 +9,26 @@ El objetivo es visitar distintas localizaciones en Andalucía, completar retos c
 ## 📱 Capturas de pantalla
 
 ### 🗺️ Vista general con todos los marcadores personalizados
-![Mapa completo](./capturas/3de5e177-a7ae-419e-9abc-7b8d81fc8036.png)
+![Mapa completo](https://github.com/user-attachments/assets/88305245-6f3a-4715-a6e5-591e33402eef)
+
+### 📍  Permiso de ubicación solicitado por la app 
+![InfoWindow activo](https://github.com/user-attachments/assets/9d476c2e-ddb5-4add-b8f5-1f7aa6553d8a)
+
 
 ### 📍 InfoWindow al pulsar un marcador
-![InfoWindow activo](./capturas/bc6b84b0-f3c2-4107-9bf3-e5ffbef05473.png)
+![Campo desactivado](https://github.com/user-attachments/assets/ec37a10c-40cc-49f4-81ae-cfbb490a5082)
+
 
 ### 🔐 Diálogo con campo de contraseña desactivado
-![Campo desactivado](./capturas/714d65eb-f716-4cb7-872b-37f3618ef03d.png)
+![Error de contraseña](https://github.com/user-attachments/assets/ecde90f8-c087-41bf-824a-f08e387a0dac)
 
 ### ❌ Contraseña incorrecta
-![Error de contraseña](./capturas/ffabdf34-a700-4efa-802a-cd4b44d55052.png)
+![Reto completado](https://github.com/user-attachments/assets/0ff59f70-f6a8-4adb-96ec-0b6e79c7d12b)
 
-### ✅ Contraseña correcta: reto completado
-![Reto completado](./capturas/67a4c06d-cb10-4950-9aa3-60177c361e19.png)
 
-### 📍 Permiso de ubicación solicitado por la app
-![Permiso ubicación](./capturas/1d23f4b0-14e7-4b01-aea9-188d1e7839f6.png)
+### ✅Contraseña correcta: reto completado
+![Permiso ubicación](https://github.com/user-attachments/assets/c69e8f89-050b-4a30-9829-2e7121c4b71c)
+
 
 ---
 
