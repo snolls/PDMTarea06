@@ -45,29 +45,37 @@ El objetivo es visitar distintas localizaciones en Andalucía, completar retos c
 
 ## 📦 Tecnologías y librerías usadas
 
-- [Google Maps SDK for Android](https://developers.google.com/maps/documentation/android-sdk/start)
-- FusedLocationProviderClient (para obtener la ubicación)
-- `SwitchCompat`, `AlertDialog`, `SupportMapFragment`
-- Android API 33 (mínimo 21 recomendado)
+- [Google Maps SDK for Android](https://developers.google.com/maps/documentation/android-sdk/start) — para mostrar mapas y marcadores.
+- `FusedLocationProviderClient` — para obtener la ubicación actual del usuario.
+- `SupportMapFragment` — para incrustar el mapa en la interfaz.
+- `SwitchCompat` — para controlar la visibilidad de la ubicación del usuario.
+- `AlertDialog` — para mostrar desafíos interactivos con campo de contraseña.
+- `ConstraintLayout` — para un diseño flexible y responsivo.
+- **Lenguaje:** Java (versión 11)
+- **Gradle con Version Catalogs (`libs.XXX`)** — para gestión moderna de dependencias.
+- **Compatibilidad Android:**
+  - `compileSdk = 35` (Android 14)
+  - `targetSdk = 35`
+  - `minSdk = 24` (Android 7.0)
 
 ---
 
-## 📚 Estructura del proyecto
+## 📁 Estructura del proyecto
 
+```
 ├── MainActivity.java
 ├── CrashLocation.java
 ├── res/
-│ ├── layout/
-│ │ ├── activity_main.xml
-│ │ └── dialog_challenge.xml
-│ ├── drawable/
-│ │ └── crash.png
-│ └── values/
-│ └── google_maps_api.xml
-
+│   ├── layout/
+│   │   ├── activity_main.xml
+│   │   └── dialog_challenge.xml
+│   ├── drawable/
+│   │   └── crash.png
+│   └── values/
+│       └── google_maps_api.xml
+```
 
 ---
-
 ## ⚙️ Cómo probar la app
 
 1. Clona este repositorio.
