@@ -77,7 +77,7 @@ El objetivo es visitar distintas localizaciones en Andalucía, completar retos c
 ## ⚙️ Cómo probar la app
 
 1. Clona este repositorio.
-2. Añade tu API Key en `google_maps_api.xml`.
+2. Añade tu API Key en el manifest
 3. Ejecuta el proyecto en un emulador con servicios de Google.
 4. Permite acceso a la ubicación cuando se solicite.
 5. Activa el `Switch` para ver tu posición actual.
